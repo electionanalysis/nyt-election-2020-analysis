@@ -2,6 +2,9 @@
 
 This repo scrapes plots the NYT 2020 election data from any state, with time on the X axis and ratio of D/R votes on the Y axis. Based on https://threadreaderapp.com/thread/1325592112428163072.html
 
+## All races data
+Added a quick script that returns the timeseries data for all races tracked by the NYT.
+
 ## Quickstart
 
 Prerequisites: Python 3
